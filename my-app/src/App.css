@@ -1,0 +1,45 @@
+.App{
+  text-align: center;
+  margin-top: 10px;
+}
+.incr{
+  background: green;
+  border: none;
+  color: white;
+  padding: 10px 8px;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.reset{
+  background: rgb(99, 39, 211);
+  border: none;
+  color: white;
+  padding: 10px 8px;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.decr{
+  background: crimson;
+  border: none;
+  color: white;
+  padding: 10px 8px;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.tex{
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+}
+
+p{
+  color: red;
+  cursor: pointer;
+}
